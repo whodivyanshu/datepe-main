@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "170771950110",
+    "project_id": "datepe-a9ca9",
+    "storage_bucket": "datepe-a9ca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170771950110:android:0b1c2c54c42aac34085c0f",
+        "android_client_info": {
+          "package_name": "com.datepe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170771950110-ifc2kh7hrbo7e8oihk0fv5ehree31pr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datepe",
+            "certificate_hash": "319b0c22ca87e39fc553fe87e9d92e669b195fcc"
+          }
+        },
+        {
+          "client_id": "170771950110-ken98qanh26ivffsgtfvlq7n1c30pd1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8GTwBbvg_1yDj4-dOibYoG9gk99RLQtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170771950110-ken98qanh26ivffsgtfvlq7n1c30pd1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
